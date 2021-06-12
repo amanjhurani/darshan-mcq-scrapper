@@ -1,0 +1,1436 @@
+Question : Sunlight, air, soil, and water are examples of
+(a) renewable resources
+(b) non- renewable resources
+(c) conventional resources
+(d) non-natural resources
+Option(a)
+
+Question : Which of the following is a disadvantage of most of the renewable energy sources?
+(a) Unreliable supply
+(b) Highly polluting
+(c) High waste disposal cost
+(d) High running cost
+Option(a)
+
+Question : Which among the following is not a renewable source of energy?
+(a) Biomass energy
+(b) Solar energy
+(c) Hydro-power
+(d) Geothermal energy
+Option(a)
+
+Question : Identify the non-renewable energy resource from the following:
+(a) fuel cells
+(b) wind power
+(c) wave power
+(d) coal
+Option(d)
+
+Question : Which parameter is used as an index for the standard of living of the people of a country?
+(a) Industrial production
+(b) Number of vehicles per house
+(c) Per capita energy consumption
+(d) Population density
+Option(c)
+
+Question : Out of energy, economy, and environment
+(a) only energy and environment are related
+(b) only energy and economy are related
+(c) all the three are interrelated
+(d) all the three are independent
+Option(c)
+
+Question : Global warming is mainly caused due to
+(a) emissions of heat from engines
+(b) emission of CO2 due to the burning of fossil fuels
+(c) use of nuclear energy
+(d) air pollution
+Option(b)
+
+Question : Global warming would lead to
+(a) reduced ozone depletion
+(b) acid rains
+(c) change of climate pattern and its severity
+(d) increase in the efficiency of heat engines
+Option(c)
+
+Question : The resources that are inexhaustible and replace by nature are known as
+(a) non- renewable resources
+(b) renewable resources
+(c) conventional resources
+(d) non-natural resources
+Option(b)
+
+Question : Which renewable resource generate maximum power in India?
+(a) Wind
+(b) Solar
+(c) Geothermal
+(d) Biomass
+Option(b)
+
+Question : Which of the area can often replace conventional fuel by renewable energy?
+(a) Space heating
+(b) Transportation
+(c) Electricity generation
+(d) All of the above
+Option(d)
+
+Question : Which of the following energy has the greatest potential among all the sources of renewable energy?
+(a) Solar energy
+(b) Wind energy
+(c) Thermal energy
+(d) Hydro-electrical energy
+Option(a)
+
+Question : What is the rate of solar energy reaching the earth's surface?
+(a) 1026 W
+(b) 865 W
+(c) 1016 W
+(d) 1020 W
+Option(c)
+
+Question : What is the total amount of solar energy received by earth and the atmosphere?
+(a) 12.8 ×1024 JYear
+(b) 2.8 ×1024 JYear
+(c) 22.8 ×1024 JYear
+(d) 3.8 ×1024 JYear
+Option(d)
+
+Question : Which is the most common source of energy from which electricity is produced?
+(a) Hydroelectricity
+(b) Wind energy
+(c) Coal
+(d) Solar energy
+Option(c)
+
+Question : In what form is solar energy is radiated from the sun?
+(a) Ultraviolet Radiation
+(b) Electromagnetic waves
+(c) Infrared radiation
+(d) Transverse waves
+Option(b)
+
+Question : Solar radiation which reaches the surface without scattering or absorbed is called _____________
+(a) Beam Radiation
+(b) Infrared radiation
+(c) Ultraviolet radiation
+(d) Diffuse radiation
+Option(a)
+
+Question : Approximately ______ of energy striking the outer atmosphere of the earth reaches its surface.
+(a) 30 %
+(b) 45 %
+(c) 50 %
+(d) 47 %
+Option(d)
+
+Question : 8.	Solar radiation includes
+(a) visible light, ultraviolet light
+(b) infrared, radio waves
+(c) X-rays, and gamma rays
+(d) All of the above
+Option(d)
+
+Question : The scattered solar radiation is called ____________
+(a) Direct Radiation
+(b) Beam Radiation
+(c) Diffuse radiation
+(d) Infrared Radiation
+Option(c)
+
+Question : Sunlight at Earth's surface is around
+(a) 52 to 55 percent infrared
+(b) 52 to 65 percent infrared
+(c) 20 to 55 percent infrared
+(d) 52 to 75 percent infrared
+Option(a)
+
+Question : Which is the most dangerous radiation?
+(a) Alpha radiation
+(b) Beta radiation
+(c) Gamma radiation
+(d) All of the above
+Option(a)
+
+Question : Sunlight at Earth's surface is around
+(a) 42 to 63 percent visible
+(b) 32 to 43 percent visible
+(c) 22 to 73 percent visible
+(d) 42 to 43 percent visible
+Option(d)
+
+Question : Sunlight at Earth's surface is around
+(a) 0.6 to 0.10 percent ultraviolet
+(b) 3 to 5 percent ultraviolet
+(c) 0.3 to 0.8 percent ultraviolet
+(d) 0.1 to 0.5 percent ultraviolet
+Option(b)
+
+Question : Solar radiation received at any point of earth is called ______________
+(a) Insolation
+(b) Beam Radiation
+(c) Diffuse Radiation
+(d) Infrared rays
+Option(a)
+
+Question : Which of the following type of energy is stored as latent heat?
+(a) Chemical energy
+(b) Thermal energy
+(c) Electrical energy
+(d) Mechanical energy
+Option(b)
+
+Question : Direct solar energy is used for
+(a) water heating
+(b) distillation
+(c) drying
+(d) all of the above
+Option(d)
+
+Question : The power from the sun intercepted by the earth is approximately
+(a) 1.8×109 MW
+(b) 1.8×1015 MW
+(c) 1.8×1011 MW
+(d) 1.8×1019 MW
+Option(c)
+
+Question : Which of the following is indirect method of Solar energy utilization?
+(a) Wind energy
+(b) Biomass energy
+(c) Wave energy
+(d) All of the above
+Option(d)
+
+Question : The ratio of the beam radiation flux falling on a tilted surface to that falling on a horizontal surface is called the
+(a) Radiation shape factor
+(b) Tilt factor
+(c) Slope
+(d) None of the above
+Option(b)
+
+Question : Beam radiations are measured with the help of
+(a) Anemometer
+(b) Sunshine recorder
+(c) Pyrheliometer
+(d) None of the above
+Option(c)
+
+Question : Solar radiation flux is usually measured with the help of a
+(a) Pyranometer
+(b) Anemometer
+(c) Sunshine recorder
+(d) None of the above
+Option(a)
+
+Question : Reflecting mirrors used for exploiting solar energy is known as
+(a) Mantle
+(b) Ponds
+(c) Diffusers
+(d) Heliostats
+Option(d)
+
+Question : The global radiation reaching a horizontal surface on the earth is given by
+(a) Total beam radiation Hourly diffuse radiation
+(b) Hourly beam radiation Hourly diffuse radiation
+(c) Hourly beam radiation + Hourly diffuse radiation
+(d) Hourly beam radiation - Hourly diffuse radiation
+Option(c)
+
+Question : A pyranometer is used for measurement of
+(a) Direct as well as diffuse radiation
+(b) Direct radiation only
+(c) Diffuse radiation only
+(d) None of the above
+Option(a)
+
+Question : Most widely used solar material is
+(a) Arsenic
+(b) Silicon
+(c) Cadmium
+(d) Steel
+Option(b)
+
+Question : Diffused radiation has
+(a) no Unique direction
+(b) unique direction
+(c) short-wavelength as compared to beam radiation
+(d) large magnitude as compared to beam radiation
+Option(a)
+
+Question : In extraterrestrial radiation has a wavelength in the range of
+(a) 0.2 to 4 μm
+(b) 0.2 to 5 μm
+(c) 0.2 to 8 μm
+(d) 0.2 to 10 μm
+Option(a)
+
+Question : For satellite the source of energy is
+(a) Cryogenic storage
+(b) Battery
+(c) Solar cell
+(d) Any of the above
+Option(d)
+
+Question : Solar energy can be directly converted into electrical energy by
+(a) photoelectric cell
+(b) dry cell
+(c) rechargeable cell
+(d) battery
+Option(a)
+
+Question : Solar energy can be used to cook food in
+(a) solar cooker
+(b) woodstove
+(c) gas oven
+(d) traditional oven
+Option(a)
+
+Question : Solar energy can be used to heating water through
+(a) solar water heating system
+(b) photoelectric cell
+(c) solar batteries
+(d) dry cell
+Option(a)
+
+Question : Instrument used to measure direct beam of solar irradiance is called ____________
+(a) Pyrheliometer
+(b) Pyranometer
+(c) Net radiometer
+(d) Sunshine recorder
+Option(a)
+
+Question : Solar energy can be converted into
+(a) thermal energy only
+(b) electrical energy only
+(c) both thermal energy and Electrical energy
+(d) none of the above
+Option(c)
+
+Question : The energy radiated from sun in visible region will be around ____________
+(a) 63 %
+(b) 53 %
+(c) 33 %
+(d) 43 %
+Option(d)
+
+Question : Global radiation is given by
+(a) Direct radiation Diffuse Radiation
+(b) Direct radiation - Diffuse Radiation
+(c) Diffuse Radiation Direct radiation
+(d) Direct radiation + Diffuse Radiation
+Option(d)
+
+Question : The value of solar constant can be given as __________
+(a) 1367 Wm2
+(b) 1377 Wm2
+(c) 1477 Wm2
+(d) 1479 Wm2
+Option(a)
+
+Question : Temperature on the sun is around ______________
+(a) 575 – 600 K
+(b) 7550 – 8000 K
+(c) 4570 – 6000 K
+(d) 5750 – 6000 K
+Option(d)
+
+Question : Around how much percentage, the incident radiant flux can be absorbed by the materials present on earth?
+(a) 48 %
+(b) 37 %
+(c) 43 %
+(d) 50 %
+Option(a)
+
+Question : The heat energy absorbed by a known area in a fixed time is determined with the help of an instrument called
+(a) Pyrometer
+(b) Pyrheliomete
+(c) Sunshine recorder
+(d) None of the above
+Option(b)
+
+Question : The approximate distribution of the flow of the sun’s energy to the earth’s surface is
+(a) 53 % is reflected back to space
+(b) 53 % is transmitted to the earth
+(c) 9 % is scattered
+(d) 22 % is absorbed in the atmosphere
+Option(c)
+
+Question : The complement of the zenith angle is
+(a) Solar altitude angle
+(b) Surface azimuth angle
+(c) Solar azimuth angle
+(d) Slope
+Option(a)
+
+Question : Angle made by a plane surface with horizontal is called ________.
+(a) Altitude angle
+(b) Zenith angle
+(c) Slope
+(d) Hour Angle
+Option(c)
+
+Question : Air mass ratio is minimum
+(a) when the sun is at the zenith
+(b) at sunrise
+(c) at sunset
+(d) none of the above
+Option(a)
+
+Question : The angle of deviation of the normal to the surface from the local meridian is called _________
+(a) Solar azimuth angle
+(b) Surface azimuth angle
+(c) Solar altitude
+(d) Hour angle
+Option(b)
+
+Question : The angle is measured from a plane and which is equal to the angle between the beam of rays and normal to the plane is called __________
+(a) Declination
+(b) Azimuth angle
+(c) Hour angle
+(d) Incident angle
+Option(d)
+
+Question : For a one-degree change in longitude, the change in solar time is
+(a) 4 seconds
+(b) 1 minute
+(c) 4 minutes
+(d) 15 minutes
+Option(c)
+
+Question : The vector sum of the components along the line normal of the titled surface in a direction normal to the tilted surface is called as__________
+(a) Incident angle
+(b) Declination
+(c) Solar intensity
+(d) Hour angle
+Option(c)
+
+Question : The time from sunrise to sunset is termed as _______________
+(a) slope
+(b) day length
+(c) local solar time
+(d) solar intensity
+Option(b)
+
+Question : What is the angle of declination on the 305th day of year and what day is it?
+(a) -15.06°, November  1
+(b) -15.06°, November  2
+(c) -55.06°, November  2
+(d) -35.06°, November  2
+Option(a)
+
+Question : What is the angle of declination on May 12 considering it’s a leap year?
+(a) 30.2°
+(b) 30.4°
+(c) 30.34°
+(d) 20.34°
+Option(d)
+
+Question : Surface azimuth angle varies from
+(a) -90° to 180°
+(b) -180° to 180°
+(c) -90° to 270°
+(d) -90° to 360°
+Option(b)
+
+Question : The angle made in the horizontal plane between the horizontal line due south and the projection of the normal to the surface on the horizontal plane is
+(a) Surface azimuth angle
+(b) Hour angle
+(c) Declination
+(d) Solar altitude angle
+Option(a)
+
+Question : The hour angle is equivalent to
+(a) 77 ° per hour
+(b) 65 ° per hour
+(c) 25 ° per hour
+(d) 15 ° per hour
+Option(d)
+
+Question : The correction has a magnitude of ___ minutes for every degree difference in longitude.
+(a) 6
+(b) 5
+(c) 7
+(d) 9
+Option(a)
+
+Question : The sun subtends an angle of _____ minutes at the earth’s surface.
+(a) 33
+(b) 32
+(c) 30
+(d) 35
+Option(b)
+
+Question : The zenith angle is the angle made by the sun’s rays with the ____ to a ______ surface.
+(a) tangent, horizontal
+(b) normal, vertical
+(c) normal, horizontal
+(d) tangent, vertical
+Option(c)
+
+Question : To how many types are flat plate collectors divided depending on the type of heat transfer fluid?
+(a) 3
+(b) 2
+(c) 4
+(d) 5
+Option(b)
+
+Question : The function of a solar collector is of converting solar energy into
+(a) radiations
+(b) thermal energy
+(c) electrical energy
+(d) all of the above
+Option(b)
+
+Question : Liquid heating collectors are mainly used for _________
+(a) cooking
+(b) generating electricity
+(c) heating water
+(d) trapping sunlight
+Option(c)
+
+Question : _______ is glazing which limits the radiation and convection heat losses.
+(a) Absorber plate
+(b) Transparent cover
+(c) Selective surface
+(d) Insulation
+Option(b)
+
+Question : Which is provided to minimize heat loss?
+(a) Insulation
+(b) Absorber plate
+(c) Surface plate
+(d) Casing
+Option(a)
+
+Question : Which part of flat plate collectors is coated in black?
+(a) Transparent cover
+(b) Insulation
+(c) Absorber plate
+(d) Fins
+Option(c)
+
+Question : The frame which contains all the parts is called __________
+(a) box
+(b) plate
+(c) enclose
+(d) container
+Option(d)
+
+Question : In which collector does airflow without any obstruction?
+(a) Porous absorber plate
+(b) Non-porous absorber plate
+(c) Over lapped glass absorber
+(d) Finned absorber
+Option(b)
+
+Question : In which absorber matrix material is arranged and the back-absorber plate is eliminated?
+(a) Non-porous absorber plate
+(b) Over lapped glass absorber
+(c) Finned absorber
+(d) Porous absorber plate
+Option(d)
+
+Question : Which type of absorber increases the heat transfer area over a simple flat plate absorber of the same capacity?
+(a) Finned absorber
+(b) Porous absorber plate
+(c) Non-porous absorber plate
+(d) Over lapped glass absorber
+Option(a)
+
+Question : In which type of absorber plate is the overall flow direction is along with the absorber glass plate?
+(a) Finned absorber
+(b) Overlapped glass absorber
+(c) Non-porous absorber plate
+(d) Porous absorber plate
+Option(b)
+
+Question : How is heat loss overcome in liquid plate collectors?
+(a) By casing
+(b) By the transparent cover
+(c) By insulation
+(d) From provided tubes
+Option(c)
+
+Question : Liquid flat-plate collector is usually held tilted in a fixed position, facing _____ if located in the northern hemisphere.
+(a) South
+(b) North
+(c) East
+(d) West
+Option(a)
+
+Question : The efficiency of Flat plate collector can be improved by
+(a) increases, decreasing
+(b) decreases, increasing
+(c) depends upon type of collector
+(d) remains the same, increasing
+Option(b)
+
+Question : Maximum efficiency is obtained in
+(a) Flat plate collector
+(b) Evacuated tube collector
+(c) Line focusing collector
+(d) Paraboloid dish collector
+Option(d)
+
+Question : The value of the concentration ratio of a flat plate collector is
+(a) 1
+(b) 100
+(c) 10
+(d) 1000
+Option(b)
+
+Question : In evacuated tube collectors
+(a) only conduction losses are suppressed
+(b) both conductions as well as convection losses are suppressed
+(c) only convection losses are suppressed
+(d) only radiation losses are suppressed
+Option(b)
+
+Question : Which of the following type of collector is used for low-temperature systems?
+(a) Line focusing parabolic collector
+(b) Paraboloid dish collector
+(c) Flat plate collector
+(d) None of the above
+Option(c)
+
+Question : In the paraboloid dish concept, the concentrator tracks the sun by rotating about
+(a) One axis
+(b) Two axis
+(c) Three axis
+(d) None of the above
+Option(b)
+
+Question : Flat plate collector absorbs
+(a) direct radiation only
+(b) diffuse radiation only
+(c) direct and diffuse both
+(d) none of the above
+Option(c)
+
+Question : Temperature attained by a flat-plate collector is a range of
+(a) 90 °C
+(b) 150 °C
+(c) 250 °C
+(d) 350 °C
+Option(a)
+
+Question : In Parabolic Trough Collector temperature attained in the range of
+(a) 350 °C
+(b) 400 °C
+(c) 450 °C
+(d) 650 °C
+Option(b)
+
+Question : A cylindrical parabolic concentrator requires
+(a) 2-axis tracking
+(b) 1-axis tracking
+(c) no tracking
+(d) seasonal adjustment
+Option(b)
+
+Question : A Scheffler Solar concentrator has
+(a) 1-axis tracking
+(b) seasonal adjustment
+(c) 2-axis tracking
+(d) no tracking
+Option(c)
+
+Question : Concentrated solar power (CSP) systems use ____ to focus a large area of sunlight into a small beam.
+(a) Lenses
+(b) Mirrors
+(c) Trackers
+(d) All of the above
+Option(d)
+
+Question : The ratio of energy actually absorbed and transferred to the heat-transport fluid by the collector is known as
+(a) collector efficiency
+(b) concentration ratio
+(c) temperature range
+(d) none of the above
+Option(a)
+
+Question : The ratio of the area of the aperture of the system to the area of the receiver is known as
+(a) collector efficiency
+(b) concentration ratio
+(c) temperature range
+(d) none of the above
+Option(b)
+
+Question : The absorber plate is usually made from a metal sheet ranging in thickness from
+(a) 0.8 to 3 mm
+(b) 0.7 to 6 mm
+(c) 0.5 to 5 mm
+(d) 0.2 to 1 mm
+Option(d)
+
+Question : In which design of absorber plate liquid flows only in the pipe?
+(a) Rectangular or cylindrical full sandwich
+(b) Pipe and fin-type
+(c) Roll bond
+(d) All of the above
+Option(b)
+
+Question : In which design of absorber plate wetted area and water capacity are high?
+(a) Rectangular or cylindrical full sandwich
+(b) Pipe and fin-type
+(c) Roll bond
+(d) All of the above
+Option(a)
+
+Question : For low-temperature requirements such as warming of a swimming pool which type absorber suitable?
+(a) Pipe and fin-type
+(b) Roll bond
+(c) Rectangular or cylindrical full sandwich
+(d) All of the above
+Option(c)
+
+Question : For domestic and industrial applications which type absorber suitable?
+(a) Rectangular or cylindrical full sandwich
+(b) Pipe and fin-type
+(c) Roll bond
+(d) All of the above
+Option(b)
+
+Question : Compound parabolic concentrator consists of
+(a) One parabolic mirror segment
+(b) Two parabolic mirror segments
+(c) Three parabolic mirror segments
+(d) No parabolic mirror segments
+Option(b)
+
+Question : In Compound Parabolic Concentrator, concentration the ratio is between
+(a) 3 to 7
+(b) 3 to 10
+(c) 3 to 8
+(d) 3 to 12
+Option(a)
+
+Question : In Cylindrical Parabolic Concentrator, the concentration ratio is between
+(a) 5 to 10
+(b) 5 to 20
+(c) 5 to 30
+(d) 5 to 40
+Option(c)
+
+Question : In Linear Fresnel Lens Collector,  concentration ratio is between
+(a) 10 to 30
+(b) 10 to 35
+(c) 10 to 40
+(d) 10 to 45
+Option(a)
+
+Question : Approximately how much amount of temperature achieved in Paraboloidal Dish Collector?
+(a) 1000 °C
+(b) 2000 °C
+(c) 2500 °C
+(d) 3000 °C
+Option(d)
+
+Question : Hemispherical Bowl Mirror Concentrator requires
+(a) two-axis tracking
+(b) one-axis tracking
+(c) three-axis tracking
+(d) not required
+Option(a)
+
+Question : In Central Tower Receiver concentration ratio is
+(a) 1000
+(b) 1500
+(c) 3000
+(d) 2000
+Option(c)
+
+Question : When hot water is taken out from the hot water outlet, the same is replaced by cold water from cold water makeup tank fixed above the level of hot water tank this scheme is known as
+(a) active system
+(b) passive heating system
+(c) neutral system
+(d) none of the above
+Option(b)
+
+Question : According to Indian climatic conditions, a solar water heater can be used for about
+(a) 265 day in the year
+(b) 285 day in the year
+(c) 330 day in the year
+(d) 300 day in the year
+Option(d)
+
+Question : The life span of a solar water heater
+(a) 6-8 years
+(b) 5-9 years
+(c) 10-12 years
+(d) 10-20 years
+Option(c)
+
+Question : Payback period of solar water heater
+(a) 2-4 years
+(b) 2-6 years
+(c) 4-8 years
+(d) 5-9 years
+Option(b)
+
+Question : The common size of Box Type Solar Cooker is
+(a) 40 cm × 40 cm × 20 cm
+(b) 60 cm × 60 cm × 20 cm
+(c) 60 cm × 40 cm × 20 cm
+(d) 40 cm × 40 cm × 10 cm
+Option(b)
+
+Question : In Box Type Solar Cooker, maximum temperature obtained inside the box is
+(a) 90 °C to 160 °C
+(b) 90 °C to 260 °C
+(c) 150 °C to 260 °C
+(d) 140 °C to 160 °C
+Option(d)
+
+Question : How many amounts of LPG Cylinder can be saved by the use of Box Type Cooker?
+(a) Approximate 1-7 LPG Cylinder per year
+(b) Approximate 3-4 LPG Cylinder per year
+(c) Approximate 2-8 LPG Cylinder per year
+(d) Approximate 5-9 LPG Cylinder per year
+Option(b)
+
+Question : Approximately Cooking time of Paraboloidal Dish-type Solar Cooker is
+(a) 20-30 minutes
+(b) 20-50 minutes
+(c) 20-70 minutes
+(d) 20-90 minutes
+Option(a)
+
+Question : In Paraboloidal Dish-type Solar Cooker, maximum temperature obtained is
+(a) 250 °C
+(b) 300 °C
+(c) 450 °C
+(d) 120 °C
+Option(c)
+
+Question : How many amounts of LPG Cylinder can be saved by the use of the Community Solar Cooker?
+(a) Approximate 30 LPG Cylinder per year
+(b) Approximate 40 LPG Cylinder per year
+(c) Approximate 10 LPG Cylinder per year
+(d) Approximate 50 LPG Cylinder per year
+Option(a)
+
+Question : Pyranometer is ued for collecting
+(a) wind energy
+(b) tidal energy
+(c) fusion energy
+(d) solar energy
+Option(d)
+
+Question : The best orientation of a solar plate collector is
+(a) facing south
+(b) facing north
+(c) facing south-east
+(d) any orientation
+Option(a)
+
+Question : If the glass plate reflects 5% of the incident light and absorbs 10%, the amount of light transmitted is
+(a) 95%
+(b) 85%
+(c) 90%
+(d) 15%
+Option(b)
+
+Question : In case of concentrating collector the ratio of absorber area to the radiation area is
+(a) 0
+(b) less than 1
+(c) 1
+(d) more than 1
+Option(b)
+
+Question : The most useful material for solar plate collector are
+(a) metals
+(b) insulators
+(c) semiconductors
+(d) liquid crystals
+Option(c)
+
+Question : The amount of power in solar radiation at sea level is
+(a) 1.35 W/m2
+(b) 1.07 W/m2
+(c) 214 W/m2
+(d) 100 W/m2
+Option(b)
+
+Question : The device which is used in solar PV cell to convert d.c. to a.c. is
+(a) battery
+(b) semiconductors
+(c) circuit breaker
+(d) invertor
+Option(d)
+
+Question : How many days in a year, on an average, solar energy is available in india
+(a) 100 days
+(b) 150 days
+(c) 250 days
+(d) 300 days
+Option(d)
+
+Question : The electrical output of solar  cell depends on
+(a) the intensity of solar radiation
+(b) heat component of solar radiation
+(c) UV component of solar radiation
+(d) MIR component of solar radiation
+Option(a)
+
+Question : Wind is defined as
+(a) air blowing very fast
+(b) air blowing very slow
+(c) air blowing at a point
+(d) still air
+Option(c)
+
+Question : Wind energy can be used to
+(a) generate electricity
+(b) operate flour mills
+(c) draw underground water
+(d) all of the above
+Option(d)
+
+Question : The wind speed is measured using an instrument called
+(a) hydrometer
+(b) Manometer
+(c) anemometer
+(d) wind vane
+Option(c)
+
+Question : The gradient height is about _____ m from the ground.
+(a) 500
+(b) 1000
+(c) 1500
+(d) 2000
+Option(d)
+
+Question : Surface layer is the air layer considered from the height of local obstruction to a height of about
+50m
+(a) 50m
+(b) 100m
+(c) 150m
+(d) 200m
+Option(b)
+
+Question : The atmosphere with uniform wind speed is called the ____ atmosphere
+(a) plain
+(b) surface
+(c) free
+(d) shear
+Option(c)
+
+Question : What is the main source for the formation of wind?
+(a) Uneven land
+(b) Sun
+(c) Vegetation
+(d) Seasons
+Option(b)
+
+Question : Which of the following source  of energy caused by uneven heating of earth’s surface
+(a) wind
+(b) solar
+(c) biomass
+(d) geothermal
+Option(a)
+
+Question : Wind energy is harnessed as ______ energy with the help of windmill or turbine.
+(a) mechanical
+(b) solar
+(c) electrical
+(d) heat
+Option(a)
+
+Question : In which region winds are stronger and constant?
+(a) deserts
+(b) offshore
+(c) low altitudes sites
+(d) all of above
+Option(b)
+
+Question : Favourable winds for small Scale application exists
+(a) everywhere on the earth's surface
+(b) on 75%of the earth's surface
+(c) on 50% of the earth's surface
+(d) on 25% of the earth's surface
+Option(b)
+
+Question : What does heating and cooling of the atmosphere generates?
+(a) conduction currents
+(b) radiation currents
+(c) convection currents
+(d) all of above
+Option(c)
+
+Question : Global cold wind move from
+(a) Polar to equatorial region
+(b) Equatorial to polar region
+(c) Equatorial to oceanic region
+(d) Oceanic to Equatorial region
+Option(a)
+
+Question : When the land near the earth’s equator is heated
+(a) all the oceans gets heated up
+(b) small wind currents are formed
+(c) large winds are formed
+(d) tides are raised
+Option(c)
+
+Question : There is little wind in the
+(a) north pole region
+(b) south pole region
+(c) tropical region
+(d) ± 5  ̊around the equator
+Option(d)
+
+Question : When the land near the earth’s equator is heated
+(a) all the oceans gets heated up
+(b) small wind currents are formed
+(c) large winds are formed
+(d) tides are raised
+Option(c)
+
+Question : _____ force is responsible for forcing the global winds towards westerly direction.
+(a) Coriolis
+(b) Gravitational
+(c) Centripetal
+(d) Centrifugal
+Option(a)
+
+Question : Global winds towards western direction are known as
+(a) Trade winds
+(b) Western winds
+(c) Eastern winds
+(d) None of the above
+Option(a)
+
+Question : Uneven heating occurs on land surface and water bodies are due to _____
+(a) air Currents
+(b) solar radiation
+(c) lunar eclipse
+(d) none of the above
+Option(b)
+
+Question : The wind intensity can be described by
+(a) reynolds number
+(b) mach number
+(c) beaufort number
+(d) froude number
+Option(c)
+
+Question : The power of wind per unit area normal to the direction of wind is called
+(a) solidity
+(b) power density
+(c) energy patter factor
+(d) none of the above
+Option(b)
+
+Question : The range of wind speed suitable for wind power generation is
+(a) 0-5 m/s
+(b) 5-25 m/s
+(c) 25-50 m/s
+(d) 50-75 m/s
+Option(b)
+
+Question : How much is the energy available in the winds over the earth surface is estimated to be?
+(a) 2.9 X 120 MW
+(b) 1.6 X 107 MW
+(c) 1 MW
+(d) 5MW
+Option(b)
+
+Question : Which country created wind mills?
+(a) Egypt
+(b) Mongolia
+(c) Iran
+(d) Japan
+Option(c)
+
+Question : How much wind power does India hold?
+(a) 20,000 MW
+(b) 12,000 MW
+(c) 140,000 MW
+(d) 5000 MW
+Option(a)
+
+Question : As per the size of installed capacity of wind power generation in the world, India ranks
+(a) first
+(b) second
+(c) third
+(d) fourth
+Option(d)
+
+Question : Which country meets more than 40% of its electricity demand from wind energy?
+(a) Denmark
+(b) Portugal
+(c) Ireland
+(d) Spain
+Option(a)
+
+Question : Compare to conventional source of power such as thermal , the cost of wind power is
+(a) 100 times
+(b) 10 times
+(c) comparable
+(d) 1/10 times
+Option(c)
+
+Question : EPF stand for
+(a) energy pattern factor
+(b) energy pattern fraction
+(c) efficiency pattern factor
+(d) none of the above
+Option(a)
+
+Question : What are used to turn wind energy into electrical energy?
+(a) Turbine
+(b) Generators
+(c) Yaw motor
+(d) Blades
+Option(a)
+
+Question : Wind turbine uses
+(a) kinetic energy
+(b) potential energy
+(c) thermal energy
+(d) chemical energy
+Option(a)
+
+Question : Forces acting of the wind turbine blades are
+(a) viscous force
+(b) inertia force
+(c) lift & drag
+(d) none of the above
+Option(c)
+
+Question : Low solidity rotors use which of the following force for rotation
+(a) drag
+(b) lift
+(c) centrifugal
+(d) centripetal
+Option(b)
+
+Question : At gradient height the shear force is
+(a) zero
+(b) minimum
+(c) maximum
+(d) none of the above
+Option(a)
+
+Question : The rate of change of wind speed with height is called
+(a) wind shear
+(b) wind rose
+(c) wind solidity
+(d) none of the above
+Option(a)
+
+Question : Which of these is the source of the wind, and the energy that can be tapped by wind turbines.
+(a) The difference in solar heating of the Earth’s atmosphere and the land.
+(b) The gravitational pull of the Sun and Moon on the Earth’s atmosphere.
+(c) The kinetic energy of the rotation of the Earth.
+(d) The kinetic energy of the rotation of the Earth.
+Option(d)
+
+Question : What is the diameter of wind turbine blades?
+(a) 320 feet
+(b) 220 feet
+(c) 80 feet
+(d) 500 feet
+Option(b)
+
+Question : How much power does the small scale wind machine generate?
+(a) 18 KW
+(b) 2 KW
+(c) 12 KW
+(d) 30 KW
+Option(b)
+
+Question : A wind turbine extracts maximum power from wind, when the downstream wind speed reduce to
+(a) on third that of up stream
+(b) Half that of upstream wind
+(c) two third that of upstream wind
+(d) zero
+Option(a)
+
+Question : Which part of the wind mill acts as a housing for the turbine?
+(a) Wind Vane
+(b) Shaft
+(c) Wind mill head
+(d) Turbine
+Option(c)
+
+Question : A rotor installed in a fixed orientation with the swept area perpendicular to the pre dominate wind direction is called ______
+(a) nacelle
+(b) yaw fixed machines
+(c) blades
+(d) anemometer
+Option(b)
+
+Question : The Nacelle of windmill houses
+(a) gearbox
+(b) brakes
+(c) generator
+(d) all of the above
+Option(d)
+
+Question : Yaw control is the part of
+(a) solar concentration collector
+(b) OTEC devices
+(c) biomass energy generator
+(d) wind energy conversion system
+Option(d)
+
+Question : How is the action of yaw controlled in small turbines?
+(a) tail vane
+(b) blades
+(c) shaft
+(d) yaw motor
+Option(a)
+
+Question : Which part of the wind turbines senses wind speed, wind direction, shaft speed and torque?
+(a) Turbine blade
+(b) Shaft
+(c) Rotor
+(d) Controller
+Option(d)
+
+Question : Turbines blades have ____ type cross section to extract energy from wind.
+(a) aerofoil
+(b) elliptical
+(c) rectangular
+(d) all of the above
+Option(a)
+
+Question : The following is the tangential velocity of the blade due to the rotation of blade.
+(a) wind velocity
+(b) incident wind velocity
+(c) blade linear velocity
+(d) relative velocity
+Option(c)
+
+Question : Why recommendation of fixed ratio gears done for top mounted equipment?
+(a) Because they are easy install
+(b) Requires less space
+(c) Due to its low cost
+(d) Because of their high efficiency
+Option(d)
+
+Question : Which type of generator are made use in wind turbines?
+(a) Recreational generators
+(b) Synchronous generator
+(c) Asynchronous generator
+(d) Alternator
+Option(b)
+
+Question : In which part do we find sensors and actuators?
+(a) Fixed gears
+(b) Turbines
+(c) Control systems
+(d) Blades
+Option(c)
+
+Question : On what does the selection of supporting structure depends?
+(a) Length of blades
+(b) Rotating capacity
+(c) Capacity of generator
+(d) Transmission systems
+Option(d)
+
+Question : At what type of location vibrations are less in the wind turbines?
+(a) Windward
+(b) Leeward
+(c) Downwind location
+(d) Upwind Location
+Option(c)
+
+Question : The term upwind stream means the direction of wind flow from
+(a) blade to tail vane
+(b) tail vane to blade
+(c) tail vane to axis
+(d) none of the above
+Option(a)
+
+Question : Pitch of the blade is controlled by rotating it from its
+(a) root
+(b) base
+(c) side
+(d) all of the above
+Option(a)
+
+Question : Why blade velocity of wind turbine varies?
+(a) Due to varying wind speeds
+(b) Long length of blades
+(c) Due to the height of mount
+(d) Because of hotness of Sun
+Option(b)
+
+Question : In wind turbine as tip speed ratio increases then number of blades
+(a) increases
+(b) increases
+(c) remains constant
+(d) none of the above
+Option(a)
+
+Question : A two blade wind turbine produces maximum power when the tip- speed ratio is equal to
+(a) π
+(b) 2π
+(c) 3π
+(d) 0.593
+Option(b)
+
+Question : How much ideal efficiency should practical turbine have?
+(a) 10 – 12%
+(b) 18 – 25%
+(c) 80 – 90%
+(d) 50 – 70%
+Option(d)
+
+Question : How many types are acting on propeller type wind mill?
+(a) 2
+(b) 3
+(c) 4
+(d) 5
+Option(a)
+
+Question : Name the windmill which has four blades mounted on a central post.
+(a) post mill
+(b) smock mill
+(c) tower mill
+(d) fan mill
+Option(a)
+
+Question : Name the type of windmill which consists of a sloping, horizontally weather boarded or thatched tower.
+(a) post mill
+(b) smock mill
+(c) tower mill
+(d) fan mill
+Option(b)
+
+Question : In which of the following, does machine rotor drives through a step up gear box?
+(a) Horizontal axis with two aerodynamic blades
+(b) Horizontal axis propeller type wind mill
+(c) Horizontal axis multi bladed type wind mill
+(d) Sail type wind mill
+Option(a)
+
+Question : Which type of windmill has better performance?
+(a) Vertical type wind mills
+(b) Darrieus type machines
+(c) Magnus effect rotor
+(d) Horizontal type windmills
+Option(d)
+
+Question : The rotor wind turbine can accept the wind from any compass is
+(a) darrieus type
+(b) savonius type
+(c) propeller type
+(d) multi blade type
+Option(a)
+
+Question : Horizontal axis wind mill of modern design can
+(a) always turn to face wind
+(b) not adjust its output
+(c) not turn to wind direction
+(d) not turn to face wind
+Option(a)
+
+Question : Vertical axis wind turbines are known by names such as
+(a) smith-Putnam
+(b) savonius
+(c) darrieus
+(d) both B and C
+Option(d)
+
+Question : Which of the following wind mill runs independently of the direction of the direction of the wind?
+(a) darrieus
+(b) sail type
+(c) propeller type
+(d) multi blade type
+Option(a)
+
+Question : The amount of energy available in the wind at any instant is proportional to ___ of the wind speed.
+(a) square root power of two
+(b) square root power of three
+(c) square power
+(d) cube power
+Option(d)
+
+Question : For the same rotor diameter, as the wind speed increases, total power developed
+(a) decreases
+(b) increases
+(c) remains constant
+(d) may increase or decreases, but depend on wind speed
+Option(b)
+
+Question : Stalled flow occurs when the value of the incident angle is
+(a) 0 degree
+(b) 180 degree
+(c) comparable
+(d) beyond 16 degree
+Option(d)
+
+Question : Stall regulation is used with turbine
+(a) having diameter less than 25 mm
+(b) having diameter more than 25 mm
+(c) having rotor of large solidity
+(d) having rotor with pitch control
+Option(a)
+
+Question : if the speed of a wind stream remain unchanged while passing through the rotor,
+(a) a large power will be generated
+(b) Zero power will be generated
+(c) the flow is known as stalled flow
+(d) the speed of the rotor is very high
+Option(b)
+
+Question : As per Betz criteria, the maximum energy extract able by an ideal wind turbine is
+(a) 29% of that available in wind
+(b) 39% of that available in wind
+(c) comparable
+(d) 59% of that available in wind
+Option(d)
+
+Question : The maximum axial thrust occurs when interference factor α is
+(a) 0
+(b) 0.33
+(c) 0.5
+(d) 1
+Option(c)
+
+Question : The wind turbine rotor having law value of solidity
+(a) runs slower
+(b) runs faster
+(c) produces higher torque
+(d) has law efficiency
+Option(b)
+
+Question : A wind turbine designed to come into operation at a minimum wind speed is called
+(a) cut in velocity
+(b) cut out velocity
+(c) windward
+(d) upwind
+Option(a)
+
+Question : Why is wind turbine designed to stop operation at cut out velocity?
+(a) To protect wheel against damage
+(b) To make a quick stop in emergencies
+(c) To improve the efficiency
+(d) In order to adjust the blades to wind direction
+Option(a)
+
+Question : What is the inherent weakness of all wind machines?
+(a) Their efficiencies
+(b) Requires powerful winds to make fan rotate
+(c) Their dependency on the wind speed
+(d) Cannot be easily repaired
+Option(c)
+
+Question : Why severe fluctuations in power are always undesirable in windmill?
+(a) Because they pose power oscillations problems
+(b) Damage of parts due to fluctuations
+(c) The efficiency of the plant will be reduced
+(d) Results in damage to the whole plant
+Option(a)
+
+Question : The wind is blowing at velocity V through area A at a right angle to it. The density of wind is ρ. The kinetic energy of the wind is
+(a) ρAV3
+(b) ρAV2
+(c) 12ρAV3
+(d) 32ρAV3
+Option(a)
+

@@ -4,6 +4,8 @@ import urllib.request
 url_num = int(input("Enter Url Number ...Example http://gtu-mcq.com/BE/Computer-Engineering/Semester-8/2180703/5161/MCQs?q=9aZHDjblmRk= ......In my case it is 5161 :  "))
 sub_code = input("Enter Subject code...Example 2180703 : ")
 total_units = int(input("Enter number of units...Example 8 : "))
+branch = input("Enter branch...Example(Computer, Mechanical, Electrical..enter in same format) : ")
+semester = input("Enter semester...Example 8 : ")
 
 pagination = ["9aZHDjblmRk", "bDFvcmdllQA", "6wHWymi73nk", "62pxAP7c7zo" , "F/I0jXYbK4A" , "V5gItqXdDZ0", "/a8zqq5LsNk", "PiCGJToqDwo", "013G9Ftq0lc", "w7DGoNvS53U", "3250OxRQXCo", "RyBhlP9tjis", "31WIp9duVMU", "WwctbSKBVt4", "zoLCy/Hv7S4", "mwHzaMDbcic", "Yc4Re0O6m3E"]
 print(len(pagination))
@@ -16,7 +18,7 @@ while True:
         break
     for page in pagination:
         try :
-            source = urllib.request.urlopen('http://gtu-mcq.com/BE/Computer-Engineering/Semester-8/{}/{}/MCQs?q={}='.format(str(sub_code),str(url_num),page)).read()
+            source = urllib.request.urlopen('http://gtu-mcq.com/BE/{}-Engineering/Semester-{}/{}/{}/MCQs?q={}='.format(branch,semester,str(sub_code),str(url_num),page)).read()
         except :
             break
 

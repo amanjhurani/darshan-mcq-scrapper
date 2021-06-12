@@ -5,9 +5,10 @@ To run this :
 
 Commands
 >pip install -r requrements.txt
+
 >py scrapper.py
 
-To get the Inputs go to your Go to http://gtu-mcq.com/ then click on your course and then click on subject and then copy the url of first chapter.
+To get the Inputs, Go to http://gtu-mcq.com/ then click on your course and then click on the subject and then copy the url of the first chapter.
 
 In my case.. It was http://gtu-mcq.com/BE/Computer-Engineering/Semester-8/2180703/5161/MCQs?q=9aZHDjblmRk=
 

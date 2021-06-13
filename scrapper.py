@@ -40,7 +40,7 @@ while True:
         file1 = open("Questions.txt","a", encoding='utf-8')
 
         for q_element in question_elements:
-            file1.write("Question " + str(question_num) + " : "+ + q_element.find("div", {'class':'g-font-weight-600'}).text.strip() + '\n')
+            file1.write("Question " + str(question_num) + " : "+ q_element.find("div", {'class':'g-font-weight-600'}).text.strip() + '\n')
             question_num += 1
             options_table = q_element.findAll("table")[1]
             option_table = options_table.findAll("td")

@@ -18,6 +18,8 @@ print(len(pagination))
 
 total_pages = url_num + int(total_units) + 5
 
+question_num = 1
+
 while True:
     print(url_num)
     if url_num == total_pages:
@@ -38,7 +40,8 @@ while True:
         file1 = open("Questions.txt","a", encoding='utf-8')
 
         for q_element in question_elements:
-            file1.write("Question : " + q_element.find("div", {'class':'g-font-weight-600'}).text.strip() + '\n')
+            file1.write("Question " + str(question_num) + " : "+ + q_element.find("div", {'class':'g-font-weight-600'}).text.strip() + '\n')
+            question_num += 1
             options_table = q_element.findAll("table")[1]
             option_table = options_table.findAll("td")
             for i in range(0,len(option_table),2):

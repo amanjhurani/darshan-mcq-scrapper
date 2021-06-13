@@ -10,7 +10,7 @@ Commands
 
 ### First Input -> First mcq page url
 >Enter Url : http://gtu-mcq.com/BE/Computer-Engineering/Semester-8/2180703/5161/MCQs?q=9aZHDjblmRk=
-### Second Input _> Total Chapters
+### Second Input -> Total Chapters
 >Enter number of units : 9
 
 
